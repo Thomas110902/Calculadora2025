@@ -1,12 +1,12 @@
 .pantalla{
     height: 20rem;
-    background-color: rgb(216, 213, 213);
+    background-color: rgb(219, 195, 127);
     text-align: center;
     padding: 1rem;
     
     font-weight: 600;
     font-size: 5rem;
-    
+    color: white;
     
     display: flex;
     align-items: end;
